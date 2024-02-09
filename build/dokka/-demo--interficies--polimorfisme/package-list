@@ -1,0 +1,36 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:org.example.controllers////PointingToDeclaration/-demo--interficies--polimorfisme/org.example.controllers/index.html
+$dokka.location:org.example.controllers/MainKt///PointingToDeclaration/-demo--interficies--polimorfisme/org.example.controllers/-main-kt/index.html
+$dokka.location:org.example.controllers/MainKt/main/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.controllers/-main-kt/main.html
+$dokka.location:org.example.interfaces////PointingToDeclaration/-demo--interficies--polimorfisme/org.example.interfaces/index.html
+$dokka.location:org.example.interfaces/IAmable///PointingToDeclaration/-demo--interficies--polimorfisme/org.example.interfaces/-i-amable/index.html
+$dokka.location:org.example.interfaces/IAmable/getSalutacio/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.interfaces/-i-amable/get-salutacio.html
+$dokka.location:org.example.interfaces/IAmable/saluda/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.interfaces/-i-amable/saluda.html
+$dokka.location:org.example.interfaces/IAmable/setSalutacio/#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.interfaces/-i-amable/set-salutacio.html
+$dokka.location:org.example.models////PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/index.html
+$dokka.location:org.example.models/Botiguer///PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/index.html
+$dokka.location:org.example.models/Botiguer/Botiguer/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/-botiguer.html
+$dokka.location:org.example.models/Botiguer/equals/#kotlin.Any?/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/equals.html
+$dokka.location:org.example.models/Botiguer/getBotiga/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/get-botiga.html
+$dokka.location:org.example.models/Botiguer/getSalutacio/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/get-salutacio.html
+$dokka.location:org.example.models/Botiguer/saluda/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/saluda.html
+$dokka.location:org.example.models/Botiguer/setSalutacio/#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/set-salutacio.html
+$dokka.location:org.example.models/Botiguer/toString/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/to-string.html
+$dokka.location:org.example.models/Botiguer/treballar/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-botiguer/treballar.html
+$dokka.location:org.example.models/Persona///PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-persona/index.html
+$dokka.location:org.example.models/Persona/Persona/#kotlin.String#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-persona/-persona.html
+$dokka.location:org.example.models/Persona/getEdat/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-persona/get-edat.html
+$dokka.location:org.example.models/Persona/setEdat/#kotlin.Int/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-persona/set-edat.html
+$dokka.location:org.example.models/Persona/treballar/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-persona/treballar.html
+$dokka.location:org.example.models/Recepcionista///PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/index.html
+$dokka.location:org.example.models/Recepcionista/Recepcionista/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/-recepcionista.html
+$dokka.location:org.example.models/Recepcionista/getSalutacio/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/get-salutacio.html
+$dokka.location:org.example.models/Recepcionista/saluda/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/saluda.html
+$dokka.location:org.example.models/Recepcionista/setSalutacio/#kotlin.String/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/set-salutacio.html
+$dokka.location:org.example.models/Recepcionista/toString/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/to-string.html
+$dokka.location:org.example.models/Recepcionista/treballar/#/PointingToDeclaration/-demo--interficies--polimorfisme/org.example.models/-recepcionista/treballar.html
+org.example.controllers
+org.example.interfaces
+org.example.models
+
