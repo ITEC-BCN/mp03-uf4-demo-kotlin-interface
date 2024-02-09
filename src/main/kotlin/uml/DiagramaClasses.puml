@@ -1,0 +1,42 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface IAmable{
+    + salutacio: String
+    + {abstract} saluda(): String
+}
+
+abstract class Persona{
+    # nom: String
+    # cognoms: String
+    - edat: Int = 0
+
+    + constructor(nom: String, cognoms: String)
+    + {abstract} treballar(): String
+    + getEdat(): Int
+    + setEdat(edat: Int)
+}
+
+class Botiguer{
+    - botiga: String
+
+    + constructor(nom: String, cognoms: String, botiga: String)
+    + saluda(): String
+    + treballar(): String
+}
+
+class Recepcionista{
+    - hotel: String
+
+    + constructor(nom: String, cognoms: String, hotel: String)
+    + saluda(): String
+    + treballar(): String
+}
+
+Persona <|-- Recepcionista
+Persona <|---- Botiguer
+
+IAmable <|.. Recepcionista
+IAmable <|.right.. Botiguer
+
+@enduml
